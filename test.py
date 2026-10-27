@@ -1,0 +1,1 @@
+print("System initialized: version 1.0") 
